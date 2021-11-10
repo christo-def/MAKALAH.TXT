@@ -1,9 +1,13 @@
 LATAR BELAKANG
 -------------
 KATA PENGANTAR
+ fix-3
+-------------
+BAB 1
+
 LATAR BELAKANG
 -------------
 KATA PENGANTAR
 -------------
-BAB 1
 
+ main
